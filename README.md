@@ -49,7 +49,7 @@ _Confira_Nosso_Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=w
 ## 📞 Contato
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadashesk@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543999999999)
-**Vamos tirar sua ideia do papel?**
----
 
+---
+ **Vamos tirar sua ideia do papel?**
  **Yadashesk — Transformando ideias em experiências digitais.**
