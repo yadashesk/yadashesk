@@ -30,7 +30,7 @@ Trabalhamos com a criação de identidades visuais modernas, interfaces intuitiv
 
 ##  Nosso Portfólio
 
-**Vamos tirar sua ideia do papel?**
+**Nosso Portifólio 👇**
 
 [![Portfólio](https://img.shields.io/badge/
 _Confira_Nosso_Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://incredible-entremet-3ddada.netlify.app/)
@@ -38,6 +38,8 @@ _Confira_Nosso_Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=w
 ---
 
 ##  Redes Sociais
+
+**Vamos tirar sua ideia do papel?**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
