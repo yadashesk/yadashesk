@@ -27,11 +27,6 @@ Trabalhamos com a criação de identidades visuais modernas, interfaces intuitiv
 
 ---
 
-##  Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
----
 
 ##  Nosso Portfólio
 
