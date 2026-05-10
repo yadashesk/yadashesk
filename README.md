@@ -39,13 +39,14 @@ _Confira_Nosso_Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=w
 
 ##  Redes Sociais
 
-**Vamos tirar sua ideia do papel?**
+**Nossas Redes Sociais**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 ## 📞 Contato
+**Vamos tirar sua ideia do papel?**
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadashesk@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543999999999)
 
